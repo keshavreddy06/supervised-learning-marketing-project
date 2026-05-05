@@ -1,0 +1,6 @@
+Criteria,Logistic Regression,Random Forest,XGBoost
+Predictive Performance,Medium,High,Very High
+Interpretability,High,Medium,Low
+Robustness,Medium,High,High
+Computational Cost,Low,Medium,High
+Deployment Suitability,High,High,Medium

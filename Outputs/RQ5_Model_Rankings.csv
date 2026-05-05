@@ -1,0 +1,5 @@
+Model,Accuracy_Rank,Precision_Rank,Recall_Rank,F1-score_Rank
+Logistic Regression,3.0,3.0,3.0,3.0
+Random Forest,4.0,4.0,4.0,4.0
+SVM,2.0,2.0,2.0,2.0
+XGBoost,1.0,1.0,1.0,1.0
