@@ -1,5 +1,4 @@
-# supervised-learning-marketing-Assignnment
-# Marketing and Product Performance - Supervised Learning Assignment
+# 📈 Marketing & Product Performance Prediction using Supervised Machine Learning
 
 ## 📌 Project Overview
 This project applies supervised machine learning models to predict marketing conversion levels using real-world dataset analysis.
